@@ -1,0 +1,590 @@
+1,Berkshire Hathaway,United States,$276.09 B,$89.8 B,$958.78 B,$741.48 B
+4,JPMorgan Chase,United States,$124.54 B,$42.12 B,"$3,954.69 B",$374.45 B
+6,Amazon,United States,$469.82 B,$33.36 B,$420.55 B,"$1,468.4 B"
+7,Apple,United States,$378.7 B,$100.56 B,$381.19 B,"$2,640.32 B"
+9,Bank of America,United States,$96.83 B,$31 B,"$3,238.22 B",$303.1 B
+11,Alphabet,United States,$257.49 B,$76.03 B,$359.27 B,"$1,581.72 B"
+12,Microsoft,United States,$184.9 B,$71.19 B,$340.39 B,"$2,054.37 B"
+15,ExxonMobil,United States,$280.51 B,$23.04 B,$338.92 B,$359.73 B
+18,Wells Fargo,United States,$84.12 B,$20.58 B,"$1,939.71 B",$176.77 B
+19,Verizon Communications,United States,$134.35 B,$21.52 B,$366.6 B,$218.02 B
+20,AT&T,United States,$163.03 B,$17.33 B,$551.62 B,$141.79 B
+21,UnitedHealth Group,United States,$297.55 B,$17.45 B,$221.24 B,$490.15 B
+23,Walmart,United States,$572.75 B,$13.67 B,$244.86 B,$431.64 B
+26,Chevron,United States,$156.29 B,$15.63 B,$239.53 B,$316.23 B
+27,Citigroup,United States,$79.94 B,$18.23 B,"$2,394.11 B",$101.48 B
+32,Comcast,United States,$116.39 B,$14.16 B,$275.9 B,$205.72 B
+34,Meta Platforms,United States,$117.93 B,$39.37 B,$165.99 B,$499.86 B
+36,Morgan Stanley,United States,$60.22 B,$14.58 B,"$1,222.23 B",$150.95 B
+37,Goldman Sachs Group,United States,$62.81 B,$18.74 B,"$1,589 B",$109.32 B
+39,Johnson & Johnson,United States,$94.88 B,$19.83 B,$182.02 B,$477.38 B
+42,CVS Health,United States,$291.98 B,$7.91 B,$240.5 B,$133.53 B
+43,Pfizer,United States,$81.49 B,$21.98 B,$181.48 B,$271.83 B
+51,Intel,United States,$79.02 B,$19.87 B,$168.41 B,$190.29 B
+59,Ford Motor,United States,$136.34 B,$17.94 B,$257.04 B,$60.8 B
+63,Procter & Gamble,United States,$79.62 B,$14.6 B,$120.22 B,$386.53 B
+67,AbbVie,United States,$56.2 B,$11.46 B,$146.53 B,$273.76 B
+69,General Motors,United States,$127 B,$10.02 B,$244.72 B,$57.89 B
+74,MetLife,United States,$71.08 B,$6.55 B,$759.71 B,$57.39 B
+76,The Home Depot,United States,$151.16 B,$16.43 B,$71.88 B,$310.13 B
+77,American Express,United States,$46.29 B,$7.86 B,$196 B,$136.72 B
+84,Cigna,United States,$174.27 B,$5.37 B,$151.02 B,$81.2 B
+85,Prudential Financial,United States,$70.93 B,$7.61 B,$937.58 B,$43.6 B
+86,PepsiCo,United States,$79.47 B,$7.62 B,$92.38 B,$238.13 B
+87,Merck & Co.,United States,$50.37 B,$13.05 B,$105.69 B,$213.83 B
+88,Anthem,United States,$144.35 B,$6.24 B,$100.49 B,$121.25 B
+90,American International Group,United States,$52.06 B,$9.39 B,$521.83 B,$48.73 B
+92,Cisco Systems,United States,$51.55 B,$11.82 B,$94.26 B,$213.36 B
+94,Walt Disney,United States,$72.98 B,$3.08 B,$203.31 B,$215.33 B
+98,IBM,United States,$67.25 B,$5.52 B,$133.28 B,$124.33 B
+100,United Parcel Service,United States,$97.2 B,$12.89 B,$69.41 B,$163.03 B
+108,Raytheon Technologies,United States,$64.36 B,$3.86 B,$161.4 B,$149.76 B
+111,Capital One,United States,$32.12 B,$12.29 B,$432.38 B,$54.88 B
+112,Bristol Myers Squibb,United States,$46.38 B,$6.99 B,$109.31 B,$160.98 B
+113,Coca-Cola,United States,$38.73 B,$9.77 B,$94.35 B,$282.86 B
+114,Oracle,United States,$41.83 B,$7.56 B,$108.64 B,$203.34 B
+119,Thermo Fisher Scientific,United States,$39.21 B,$7.72 B,$95.12 B,$219.71 B
+122,Costco Wholesale,United States,$210.22 B,$5.51 B,$63.08 B,$253.39 B
+125,Charter Communications,United States,$51.68 B,$4.65 B,$143.39 B,$97.92 B
+127,ConocoPhillips,United States,$46.06 B,$8.08 B,$90.66 B,$124.43 B
+131,US Bancorp,United States,$23.12 B,$7.21 B,$586.52 B,$75.48 B
+134,Abbott Laboratories,United States,$44.51 B,$7.7 B,$75.2 B,$210.98 B
+138,Caterpillar,United States,$50.98 B,$6.49 B,$82.79 B,$115.91 B
+141,Charles Schwab,United States,$18.98 B,$5.77 B,$681 B,$127.6 B
+142,Truist Financial,United States,$23.19 B,$6.44 B,$544.34 B,$67.64 B
+147,Visa,United States,$25.48 B,$12.84 B,$81.93 B,$436.49 B
+149,Target,United States,$106 B,$6.95 B,$53.81 B,$111.76 B
+150,Tesla,United States,$53.82 B,$5.52 B,$62.13 B,"$1,038.73 B"
+152,Deere & Company,United States,$44.45 B,$5.64 B,$79.61 B,$123.81 B
+156,Walgreens,United States,$135.95 B,$6.29 B,$92.68 B,$39.34 B
+158,Danaher,United States,$30.28 B,$6.46 B,$83.39 B,$189.4 B
+161,Lowe's,United States,$96.25 B,$8.41 B,$46.33 B,$130.37 B
+162,FedEx,United States,$91.55 B,$5.13 B,$84.11 B,$53.19 B
+164,Broadcom,United States,$28.5 B,$7.83 B,$73.22 B,$239.64 B
+164,PNC Financial Services,United States,$19.93 B,$5.25 B,$541.25 B,$71.9 B
+171,Lockheed Martin,United States,$65.75 B,$6.21 B,$51.51 B,$118.82 B
+172,BlackRock,United States,$20.3 B,$6.14 B,$152.65 B,$100.8 B
+174,Duke Energy,United States,$25.1 B,$3.91 B,$174.18 B,$87.98 B
+175,Dell Technologies,United States,$106.84 B,$5.56 B,$92.73 B,$35.64 B
+184,Honeywell International,United States,$34.39 B,$5.54 B,$64.47 B,$130.67 B
+190,Micron Technology,United States,$31.17 B,$9.02 B,$63.7 B,$77.51 B
+194,HCA Healthcare,United States,$59.72 B,$6.81 B,$52.21 B,$63.62 B
+195,Dow,United States,$58.35 B,$6.85 B,$63.34 B,$50.35 B
+200,Qualcomm,United States,$36.04 B,$9.99 B,$42.82 B,$149.68 B
+202,Allstate,United States,$50.59 B,$5.69 B,$90.66 B,$36.45 B
+206,Gilead Sciences,United States,$27.37 B,$6.22 B,$67.95 B,$78.17 B
+208,NVIDIA,United States,$26.91 B,$9.75 B,$44.19 B,$489.83 B
+209,Amgen,United States,$25.99 B,$5.89 B,$61.16 B,$133.63 B
+210,Union Pacific,United States,$22.66 B,$6.81 B,$64.05 B,$147.23 B
+211,Nike,United States,$46.89 B,$6.12 B,$38.58 B,$203.13 B
+214,Philip Morris International,United States,$31.51 B,$9 B,$41.73 B,$159.18 B
+215,PayPal,United States,$25.56 B,$4.17 B,$75.8 B,$100.22 B
+219,Travelers,United States,$35.31 B,$3.92 B,$108.59 B,$41.54 B
+220,Eli Lilly,United States,$28.32 B,$5.58 B,$48.81 B,$265.45 B
+221,Mondelez International,United States,$28.72 B,$4.3 B,$67.09 B,$89.98 B
+222,McDonald's,United States,$23.22 B,$7.55 B,$53.85 B,$185.03 B
+223,General Electric,United States,$74.08 B,$1.17 B,$198.87 B,$98.13 B
+226,3M,United States,$35.35 B,$5.92 B,$47.07 B,$84.9 B
+227,Aflac,United States,$22.11 B,$4.33 B,$164.55 B,$41.15 B
+229,Southern Company,United States,$23.23 B,$2.41 B,$127.53 B,$80.48 B
+235,Northrop Grumman,United States,$35.67 B,$7 B,$42.58 B,$69.84 B
+236,Archer Daniels Midland,United States,$85.26 B,$2.71 B,$56.14 B,$51.85 B
+237,Marathon Petroleum,United States,$119.78 B,$1.72 B,$85.37 B,$48.64 B
+240,Netflix,United States,$30.4 B,$5.01 B,$45.33 B,$95.68 B
+241,Progressive,United States,$48.07 B,$2.18 B,$68.91 B,$63.37 B
+247,Exelon,United States,$39.27 B,$1.71 B,$133.01 B,$47.68 B
+247,Humana,United States,$84.09 B,$2.93 B,$44.75 B,$56.34 B
+249,General Dynamics,United States,$38.47 B,$3.26 B,$50.07 B,$66.42 B
+253,KKR,United States,$19.02 B,$4.67 B,$264.29 B,$30.6 B
+255,NextEra Energy,United States,$23.74 B,$1.46 B,$144.94 B,$145.27 B
+258,HP,United States,$64.98 B,$6.52 B,$38.91 B,$38.75 B
+262,Salesforce.com,United States,$26.49 B,$1.44 B,$99.18 B,$169.72 B
+265,Bank of New York Mellon,United States,$16.09 B,$3.6 B,$473.81 B,$35.68 B
+266,Mastercard,United States,$18.88 B,$8.69 B,$37.67 B,$343.27 B
+268,Centene,United States,$125.98 B,$1.35 B,$79.76 B,$49.2 B
+270,Freeport-McMoRan,United States,$24.31 B,$5.11 B,$48.83 B,$60.97 B
+275,Occidental Petroleum,United States,$25.96 B,$2.31 B,$78.47 B,$53.05 B
+277,McKesson,United States,$257.01 B,$1.41 B,$63.71 B,$47.66 B
+288,Dominion Energy,United States,$13.96 B,$3.29 B,$99.59 B,$68.82 B
+289,Kroger,United States,$137.89 B,$1.64 B,$51.83 B,$41.23 B
+298,AmerisourceBergen,United States,$221.1 B,$1.61 B,$57.58 B,$33.25 B
+301,Starbucks,United States,$30.36 B,$4.39 B,$28.83 B,$89.63 B
+302,Nucor,United States,$39.96 B,$7.95 B,$28.63 B,$43.29 B
+303,IntercontinentalExchange,United States,$10.15 B,$4.06 B,$193.5 B,$65.71 B
+303,TJX Cos,United States,$48.55 B,$3.28 B,$28.46 B,$73.7 B
+308,Blackstone,United States,$15.47 B,$5.33 B,$43.34 B,$132.17 B
+309,American Electric,United States,$16.62 B,$2.49 B,$90.95 B,$50.58 B
+313,EOG Resources,United States,$19.78 B,$4.66 B,$38.24 B,$67.97 B
+315,Automatic Data Processing,United States,$15.7 B,$2.74 B,$59.1 B,$93.89 B
+316,Phillips 66,United States,$111.7 B,$1.31 B,$55.59 B,$40.23 B
+317,Tyson Foods,United States,$49.52 B,$3.7 B,$36.82 B,$33.74 B
+321,Altria Group,United States,$21.11 B,$2.46 B,$39.52 B,$100.66 B
+322,Applied Materials,United States,$24.15 B,$6.55 B,$25.43 B,$99.65 B
+332,Discover Financial Services,United States,$12.8 B,$5.42 B,$110.61 B,$31.69 B
+336,Fannie Mae,United States,$100.33 B,$22.18 B,"$4,229.9 B",$880 M
+338,Marsh & McLennan,United States,$20.33 B,$3.23 B,$33.69 B,$85.88 B
+339,Ameriprise Financial,United States,$13.89 B,$2.76 B,$175.98 B,$30.97 B
+339,Becton Dickinson,United States,$19.93 B,$1.77 B,$53.36 B,$72.63 B
+347,Schlumberger,United States,$23.67 B,$2.09 B,$41.97 B,$58.86 B
+348,Texas Instruments,United States,$18.34 B,$7.74 B,$24.68 B,$159.94 B
+352,Paramount,United States,$28.59 B,$4.54 B,$58.62 B,$20.13 B
+354,DuPont de Nemours,United States,$16.65 B,$6.47 B,$45.71 B,$34.51 B
+358,Dollar General,United States,$34.22 B,$2.4 B,$29.06 B,$56.92 B
+359,Kraft Heinz Company,United States,$26.04 B,$1.01 B,$93.39 B,$52.89 B
+361,Freddie Mac,United States,$62.24 B,$12.11 B,"$3,025.59 B",$488 M
+362,Hewlett Packard Enterprise,United States,$27.86 B,$3.72 B,$57.87 B,$20.48 B
+367,Valero Energy,United States,$114 B,$924 M,$58.54 B,$42.19 B
+368,CSX,United States,$13.12 B,$3.93 B,$40.45 B,$75.34 B
+372,Moderna,United States,$18.4 B,$12.2 B,$24.87 B,$56.56 B
+375,Adobe,United States,$16.13 B,$4.83 B,$25.98 B,$193.1 B
+376,Hartford Financial Services,United States,$22.39 B,$2.37 B,$70.83 B,$23.65 B
+377,State Street,United States,$11.54 B,$2.78 B,$322.35 B,$26.04 B
+381,Fiserv,United States,$16.23 B,$1.33 B,$76.25 B,$63.16 B
+381,Regeneron Pharmaceuticals,United States,$16.07 B,$8.08 B,$25.43 B,$74.68 B
+389,American Tower,United States,$9.36 B,$2.57 B,$69.89 B,$119.49 B
+390,Pioneer Natural Resources,United States,$17.87 B,$2.11 B,$38.77 B,$57.38 B
+403,Stryker,United States,$17.11 B,$1.99 B,$34.63 B,$93.79 B
+421,Lennar,United States,$28.42 B,$3.89 B,$32.63 B,$22.75 B
+424,Keurig Dr Pepper,United States,$12.68 B,$2.15 B,$50.6 B,$52.47 B
+427,Emerson Electric,United States,$18.55 B,$2.75 B,$26.96 B,$55.6 B
+429,Boeing,United States,$62.29 B,$-4.2 B,$138.55 B,$104.45 B
+430,General Mills,United States,$18.63 B,$2.3 B,$31.14 B,$43.66 B
+433,The Estée Lauder Companies,United States,$17.77 B,$3.25 B,$22.08 B,$94.7 B
+438,Norfolk Southern,United States,$11.14 B,$3 B,$38.89 B,$67.06 B
+439,Principal Financial Group,United States,$14.26 B,$1.71 B,$304.66 B,$18.25 B
+439,Sempra,United States,$13.06 B,$1.32 B,$72.05 B,$53.11 B
+443,D.R. Horton,United States,$28.89 B,$4.53 B,$25 B,$25.28 B
+443,L3Harris Technologies,United States,$17.81 B,$1.85 B,$34.71 B,$47.86 B
+450,Waste Management,United States,$17.93 B,$1.82 B,$29.61 B,$65.39 B
+456,Xcel Energy,United States,$13.37 B,$1.6 B,$60.67 B,$40.44 B
+457,Corteva,United States,$15.65 B,$1.76 B,$42.34 B,$41.92 B
+458,Synchrony Financial,United States,$11.37 B,$4.13 B,$95.27 B,$19.23 B
+467,Kinder Morgan,United States,$16.61 B,$1.03 B,$69.14 B,$43.42 B
+470,Fifth Third Bank,United States,$8.27 B,$2.56 B,$211.12 B,$26.35 B
+486,CME Group,United States,$4.69 B,$2.62 B,$196.96 B,$80.12 B
+491,Paccar,United States,$23.54 B,$1.85 B,$29.3 B,$29.79 B
+492,Consolidated Edison,United States,$13.67 B,$1.35 B,$63.12 B,$34.18 B
+502,Sherwin-Williams,United States,$19.95 B,$1.86 B,$20.67 B,$64.22 B
+504,Intuit,United States,$11.41 B,$2.17 B,$26.3 B,$125.37 B
+505,Lam Research,United States,$16.72 B,$4.54 B,$16.59 B,$64.61 B
+507,Lincoln National,United States,$19.18 B,$1.41 B,$371.28 B,$11.2 B
+508,Carrier Global,United States,$20.61 B,$1.66 B,$26.17 B,$35.55 B
+509,DISH Network,United States,$17.88 B,$2.41 B,$48.47 B,$16.2 B
+515,Ally Financial,United States,$10.84 B,$2.92 B,$184.3 B,$13.79 B
+521,Cummins,United States,$24.02 B,$2.13 B,$23.71 B,$28.3 B
+522,Williams,United States,$10.57 B,$1.52 B,$49.76 B,$42.73 B
+524,Prologis,United States,$4.83 B,$3.72 B,$59.78 B,$126.34 B
+531,Bunge,United States,$59.15 B,$2.08 B,$23.82 B,$16.83 B
+532,VMware,United States,$12.85 B,$1.82 B,$28.68 B,$45.55 B
+533,Albertsons,United States,$71.89 B,$1.62 B,$28.12 B,$15.57 B
+536,CBRE Group,United States,$27.75 B,$1.84 B,$22.07 B,$27.96 B
+543,Loews,United States,$14.67 B,$1.58 B,$76.16 B,$15.94 B
+548,Analog Devices,United States,$8.44 B,$1.28 B,$51.22 B,$81.25 B
+550,Newmont Mining,United States,$12.25 B,$1.05 B,$39.91 B,$59.06 B
+550,Air Products & Chemicals,United States,$10.94 B,$2.12 B,$27.13 B,$53.86 B
+555,Dollar Tree,United States,$26.32 B,$1.33 B,$21.72 B,$37.7 B
+556,KeyCorp,United States,$7.45 B,$2.45 B,$181.22 B,$19.06 B
+561,Best Buy,United States,$51.76 B,$2.45 B,$17.5 B,$20.56 B
+562,SVB Financial Group,United States,$6.08 B,$1.81 B,$220.35 B,$31.82 B
+563,Advanced Micro Devices,United States,$16.43 B,$3.16 B,$12.42 B,$142.8 B
+564,Markel,United States,$12.84 B,$2.47 B,$39.36 B,$19.89 B
+566,Kimberly-Clark,United States,$19.79 B,$1.75 B,$18.67 B,$46.67 B
+567,Cognizant,United States,$18.51 B,$2.14 B,$17.85 B,$43.62 B
+569,Corning,United States,$14.07 B,$1.91 B,$30.15 B,$28.58 B
+571,Citizens Financial Group,United States,$6.88 B,$2.13 B,$192.1 B,$20.76 B
+572,Devon Energy,United States,$13.69 B,$2.78 B,$21.02 B,$38.57 B
+574,Lumen Technologies,United States,$19.69 B,$2.03 B,$57.99 B,$11.16 B
+576,Regions Financial,United States,$6.63 B,$2.52 B,$162.94 B,$20.03 B
+578,Raymond James Financial,United States,$10.43 B,$1.53 B,$68.46 B,$21.49 B
+580,Illinois Tool Works,United States,$14.46 B,$2.69 B,$16.08 B,$63.42 B
+582,Activision Blizzard,United States,$8.8 B,$2.7 B,$25.06 B,$61.39 B
+584,Colgate-Palmolive,United States,$17.42 B,$2.17 B,$15.04 B,$68.17 B
+588,Baxter International,United States,$12.78 B,$1.28 B,$33.52 B,$36.77 B
+591,Fidelity National Financial,United States,$15.63 B,$2.42 B,$58.13 B,$11.58 B
+591,Parker-Hannifin,United States,$15.29 B,$1.82 B,$22.39 B,$35.6 B
+595,Sysco,United States,$60.74 B,$785.5 M,$21.43 B,$45.06 B
+598,M&T Bank,United States,$5.89 B,$1.77 B,$149.86 B,$31.03 B
+600,Boston Scientific,United States,$11.89 B,$1.04 B,$32.23 B,$62.63 B
+601,Edison International,United States,$14.9 B,$781 M,$74.75 B,$27.27 B
+603,Entergy,United States,$11.71 B,$1.12 B,$59.45 B,$25.1 B
+609,Stanley Black & Decker,United States,$16.83 B,$1.69 B,$28.18 B,$21.35 B
+610,Oneok,United States,$17.27 B,$1.5 B,$23.62 B,$30.94 B
+611,Marriott International,United States,$13.86 B,$1.1 B,$25.55 B,$58.74 B
+612,Warner Bros. Discovery,United States,$12.18 B,$1.02 B,$34.43 B,$49.91 B
+614,Delta Air Lines,United States,$35.1 B,$516 M,$73.75 B,$28.01 B
+616,Halliburton,United States,$16.13 B,$1.55 B,$22.07 B,$33.94 B
+618,Northern Trust,United States,$6.57 B,$1.53 B,$183.89 B,$22.08 B
+620,Eversource Energy,United States,$9.86 B,$1.22 B,$48.49 B,$31.72 B
+624,International Paper,United States,$21.78 B,$1.76 B,$25.24 B,$17.89 B
+630,Southwest Airlines,United States,$15.79 B,$978 M,$38.17 B,$27.77 B
+632,LabCorp,United States,$16.12 B,$2.38 B,$20.39 B,$25.02 B
+640,Crown Castle International,United States,$6.6 B,$1.46 B,$39.07 B,$84.07 B
+641,FirstEnergy,United States,$11.41 B,$1.19 B,$44.62 B,$26.27 B
+647,Cincinnati Financial,United States,$9.63 B,$2.95 B,$31.02 B,$21.93 B
+649,Cleveland-Cliffs,United States,$22.35 B,$3.75 B,$19.77 B,$15.18 B
+654,DTE Energy,United States,$15.46 B,$905 M,$39.72 B,$26.51 B
+657,Western Digital,United States,$18.94 B,$1.99 B,$26.02 B,$15.48 B
+658,Booking Holdings,United States,$10.96 B,$1.17 B,$23.64 B,$90.52 B
+660,First Republic Bank,United States,$5.53 B,$1.54 B,$187.12 B,$28.21 B
+663,Fidelity National Information (FIS),United States,$13.88 B,$417 M,$82.93 B,$61.05 B
+668,AutoZone,United States,$15.6 B,$2.41 B,$14.08 B,$42.88 B
+676,PG&E,United States,$20.64 B,$-88 M,$111.75 B,$24.11 B
+677,Republic Services,United States,$11.3 B,$1.29 B,$24.95 B,$41.81 B
+678,Ross Stores,United States,$18.92 B,$1.72 B,$14.62 B,$36.35 B
+679,WEC Energy Group,United States,$8.32 B,$1.3 B,$39.87 B,$32.8 B
+680,Cardinal Health,United States,$171.29 B,$555 M,$43.68 B,$17.06 B
+681,CarMax,United States,$31.9 B,$1.15 B,$26.67 B,$14.61 B
+686,IQVIA,United States,$13.87 B,$966 M,$24.69 B,$43.56 B
+689,PPG,United States,$17.23 B,$1.08 B,$21.89 B,$31.37 B
+691,Ecolab,United States,$12.73 B,$1.13 B,$21.21 B,$50.16 B
+695,Global Payments,United States,$8.52 B,$965.5 M,$45.28 B,$37.87 B
+698,S&P Global,United States,$8.3 B,$3.02 B,$15.03 B,$131.75 B
+699,Huntington Bank,United States,$6.42 B,$1.22 B,$176.86 B,$19.88 B
+701,Jackson Financial,United States,$8.85 B,$3.44 B,$375.48 B,$3.93 B
+705,O'Reilly Automotive,United States,$13.33 B,$2.16 B,$12.39 B,$46.92 B
+706,Biogen,United States,$10.35 B,$1.56 B,$23.88 B,$30.86 B
+709,Mosaic,United States,$12.36 B,$1.63 B,$22.04 B,$24.17 B
+712,Uber,United States,$17.45 B,$-496 M,$38.77 B,$60.27 B
+717,Weyerhaeuser,United States,$10.2 B,$2.61 B,$17.65 B,$31.02 B
+720,Fox,United States,$13.59 B,$1.44 B,$22.88 B,$21.51 B
+722,Steel Dynamics,United States,$20.43 B,$3.89 B,$13.06 B,$16.98 B
+727,Digital Realty Trust,United States,$4.77 B,$2.05 B,$36.37 B,$42.6 B
+730,Simon Property Group,United States,$5.12 B,$2.25 B,$33.78 B,$41.33 B
+736,Coinbase,United States,$7.84 B,$3.15 B,$21.27 B,$28.64 B
+737,CenterPoint Energy,United States,$8.35 B,$1.49 B,$38.48 B,$20.04 B
+742,United Airlines Holdings,United States,$28.98 B,$-1.98 B,$69.04 B,$16.81 B
+743,MGM Resorts,United States,$9.68 B,$1.18 B,$44.09 B,$17.88 B
+750,NRG Energy,United States,$26.9 B,$2.19 B,$23.18 B,$9.18 B
+754,Kellogg,United States,$14.18 B,$1.49 B,$18.18 B,$23.53 B
+757,Omnicom Group,United States,$14.27 B,$1.29 B,$26.15 B,$16.35 B
+759,Cheniere Energy,United States,$17.64 B,$-2.34 B,$43.11 B,$34.52 B
+775,Gallagher,United States,$8.05 B,$906.8 M,$33.34 B,$37.32 B
+775,Baker Hughes Company,United States,$20.59 B,$306 M,$34.99 B,$31.15 B
+778,Amphenol,United States,$10.88 B,$1.59 B,$14.68 B,$41.49 B
+779,American Airlines Group,United States,$34.77 B,$-2.38 B,$67.4 B,$13.1 B
+781,KLA,United States,$8.16 B,$2.99 B,$11.68 B,$48.87 B
+790,Zoetis,United States,$7.78 B,$2.04 B,$13.9 B,$85.74 B
+794,Vertex Pharmaceuticals,United States,$7.6 B,$2.34 B,$13.43 B,$68.84 B
+795,Constellation Energy,United States,$19.65 B,$-205 M,$48.09 B,$20.39 B
+798,Whirlpool,United States,$21.98 B,$1.78 B,$20.29 B,$10.16 B
+800,WestRock,United States,$19.3 B,$868.4 M,$29.08 B,$13.27 B
+802,US Steel,United States,$20.45 B,$4.17 B,$17.82 B,$8.75 B
+811,Westlake Chemical,United States,$11.78 B,$2.01 B,$18.46 B,$16.34 B
+812,Apollo Global Management,United States,$4.83 B,$1.83 B,$30.5 B,$30.79 B
+813,United Rentals,United States,$9.72 B,$1.39 B,$20.85 B,$22.72 B
+814,Diamondback Energy,United States,$6.8 B,$2.18 B,$22.9 B,$23.08 B
+816,Otis Worldwide,United States,$14.3 B,$1.25 B,$12.28 B,$31.04 B
+817,Ball,United States,$13.93 B,$878 M,$19.71 B,$27.77 B
+832,CMS Energy,United States,$7.4 B,$1.35 B,$28.75 B,$20.82 B
+843,CDW,United States,$20.82 B,$988.6 M,$13.2 B,$22.9 B
+844,The Hershey Company,United States,$8.97 B,$1.48 B,$10.41 B,$46.07 B
+849,WR Berkley,United States,$9.46 B,$1.02 B,$28.49 B,$18.02 B
+850,Moody's,United States,$6.22 B,$2.21 B,$14.68 B,$59.77 B
+851,Genuine Parts,United States,$19.7 B,$926.9 M,$16.27 B,$18.97 B
+855,Public Storage,United States,$3.42 B,$1.88 B,$17.38 B,$70.56 B
+858,Signature Bank,United States,$2.48 B,$1.07 B,$121.85 B,$14.95 B
+859,International Flavors & Fragrances,United States,$11.66 B,$268 M,$39.66 B,$31.74 B
+859,T Rowe Price,United States,$7.67 B,$3 B,$12.51 B,$30.58 B
+862,Roper Technologies,United States,$6.09 B,$1.1 B,$23.71 B,$47.95 B
+866,Franklin Resources,United States,$8.72 B,$1.86 B,$25 B,$13.25 B
+870,Ameren,United States,$6.39 B,$990 M,$35.73 B,$25 B
+875,Conagra Brands,United States,$11.37 B,$1.04 B,$22.5 B,$17.33 B
+880,Public Service Enterprise Group,United States,$8.73 B,$-648 M,$49 B,$37.09 B
+885,Expeditors International,United States,$16.68 B,$1.42 B,$7.61 B,$16.64 B
+900,Annaly Capital Management,United States,$731 M,$2.39 B,$76.76 B,$9.53 B
+907,Alleghany,United States,$12 B,$1.03 B,$30.13 B,$11.24 B
+910,Avis Budget Group,United States,$9.31 B,$1.28 B,$22.6 B,$16.03 B
+919,Equitable Holdings,United States,$11.04 B,$-439 M,$292.26 B,$11.77 B
+926,WW Grainger,United States,$13.02 B,$1.04 B,$6.59 B,$25.52 B
+927,Viatris,United States,$17.86 B,$-1.27 B,$54.84 B,$12.43 B
+928,American Water Works,United States,$3.93 B,$1.26 B,$27.01 B,$29.84 B
+930,VF,United States,$11.62 B,$1.4 B,$13.54 B,$21.23 B
+931,Intuitive Surgical,United States,$5.91 B,$1.64 B,$13.68 B,$90.64 B
+939,Builders FirstSource,United States,$19.89 B,$1.73 B,$10.71 B,$10.86 B
+944,Jefferies Financial,United States,$8.64 B,$1.41 B,$60.04 B,$7.68 B
+945,Alexandria Real Estate Equities,United States,$2.11 B,$983.3 M,$30.22 B,$31.95 B
+952,Motorola Solutions,United States,$8.17 B,$1.25 B,$12.19 B,$37.7 B
+956,Tractor Supply,United States,$12.96 B,$1 B,$7.69 B,$23.18 B
+960,Voya Financial,United States,$4.23 B,$2.11 B,$158.53 B,$7.04 B
+963,Equity Residential,United States,$2.43 B,$1.33 B,$21.17 B,$34.27 B
+965,Hormel Foods,United States,$11.97 B,$926.1 M,$12.83 B,$29.2 B
+967,Reinsurance Group of America,United States,$16.65 B,$617 M,$89.59 B,$7.59 B
+968,Quest Diagnostics,United States,$10.68 B,$1.87 B,$13.44 B,$16.16 B
+974,Molson Coors Brewing,United States,$10.28 B,$1.01 B,$27.62 B,$11.66 B
+975,Macy's,United States,$25.29 B,$1.43 B,$18.85 B,$6.91 B
+977,Cintas,United States,$7.62 B,$1.2 B,$8.17 B,$41.75 B
+984,Arrow Electronics,United States,$34.48 B,$1.11 B,$19.54 B,$7.57 B
+985,Tenet Healthcare,United States,$19.45 B,$957 M,$26.65 B,$7.98 B
+994,Yum! Brands,United States,$6.58 B,$1.57 B,$5.97 B,$35.28 B
+997,First Horizon,United States,$3.15 B,$962 M,$88.66 B,$12.21 B
+999,Molina Healthcare,United States,$27.77 B,$659 M,$12.22 B,$19.08 B
+1002,Block,United States,$17.66 B,$166.3 M,$13.93 B,$59.55 B
+1009,eBay,United States,$10.9 B,$-2.18 B,$26.63 B,$31.24 B
+1010,Edwards Lifesciences,United States,$5.23 B,$1.5 B,$8.5 B,$73.55 B
+1012,Constellation Brands,United States,$8.82 B,$-40.4 M,$25.86 B,$46.99 B
+1023,Unum,United States,$12.01 B,$824.2 M,$59.53 B,$6.75 B
+1024,Continental Resources,United States,$5.82 B,$1.66 B,$19 B,$21.35 B
+1028,Jones Lang LaSalle,United States,$19.49 B,$961.6 M,$15.51 B,$11.12 B
+1029,American Financial Group,United States,$6.21 B,$2 B,$24.89 B,$12.28 B
+1030,Invesco,United States,$7.01 B,$1.63 B,$32.69 B,$9.38 B
+1030,NASDAQ,United States,$5.77 B,$1.17 B,$20.82 B,$27.43 B
+1034,Comerica,United States,$2.95 B,$1 B,$89.17 B,$10.61 B
+1037,Bio-Rad Laboratories,United States,$2.92 B,$4.25 B,$17.78 B,$15.99 B
+1042,TD SYNNEX,United States,$42.15 B,$436.4 M,$28.72 B,$9.61 B
+1046,PulteGroup,United States,$13.93 B,$1.93 B,$13.35 B,$10.12 B
+1048,Equinix,United States,$6.64 B,$500.2 M,$27.92 B,$67.84 B
+1049,Reliance Steel,United States,$14.09 B,$1.41 B,$9.54 B,$11.93 B
+1054,C.H. Robinson,United States,$23.1 B,$844.2 M,$7.03 B,$13.14 B
+1055,Zions Bancorp,United States,$2.96 B,$1.12 B,$93.2 B,$9.23 B
+1066,Interpublic Group,United States,$10.24 B,$952.8 M,$19.91 B,$13.81 B
+1068,Celanese,United States,$8.54 B,$1.89 B,$11.97 B,$15.42 B
+1069,AvalonBay Communities,United States,$2.33 B,$1 B,$19.9 B,$35.58 B
+1072,Microchip Technology,United States,$6.44 B,$963.6 M,$16.05 B,$36.73 B
+1074,Liberty Media Corporation Series A Liberty Formula One,United States,$11.4 B,$398 M,$44.35 B,$14.14 B
+1076,Agilent Technologies,United States,$6.45 B,$1.21 B,$10.33 B,$36.41 B
+1088,LKQ,United States,$13.09 B,$1.09 B,$12.61 B,$14.07 B
+1090,Lithia Motors,United States,$25.19 B,$1.25 B,$12.08 B,$8.53 B
+1100,Paychex,United States,$4.5 B,$1.36 B,$10.28 B,$47.42 B
+1101,Genworth Financial,United States,$7.83 B,$904 M,$83.2 B,$1.95 B
+1102,Monster Beverage,United States,$5.54 B,$1.38 B,$7.86 B,$45.34 B
+1104,Ovintiv,United States,$10.54 B,$1.42 B,$14.05 B,$13.01 B
+1107,AutoNation,United States,$26.69 B,$1.5 B,$9.36 B,$6.53 B
+1108,Chesapeake Energy,United States,$7.32 B,$6.33 B,$11.01 B,$11.08 B
+1109,J.B. Hunt Transport Services,United States,$13.04 B,$857.5 M,$7.03 B,$17.76 B
+1112,Realty Income,United States,$2.08 B,$350.3 M,$43.14 B,$43.97 B
+1114,Coterra Energy,United States,$3.67 B,$1.16 B,$20.27 B,$23.49 B
+1121,Rockwell Automation,United States,$7.29 B,$1 B,$10.74 B,$30.27 B
+1126,Jabil Circuit,United States,$30.74 B,$807.5 M,$17.43 B,$8.11 B
+1129,Bath & Body Works,United States,$11.05 B,$1.33 B,$6.03 B,$12.74 B
+1134,Dover,United States,$8.09 B,$1.12 B,$10.5 B,$20.61 B
+1135,East West Bancorp,United States,$1.91 B,$905.6 M,$62.24 B,$11.02 B
+1141,Ulta Beauty,United States,$8.63 B,$985.8 M,$5.34 B,$21.23 B
+1145,AES,United States,$11.14 B,$-413 M,$32.96 B,$15.01 B
+1153,Altice USA,United States,$10.09 B,$990.3 M,$34.05 B,$5.13 B
+1155,DaVita,United States,$11.62 B,$978.5 M,$17.87 B,$10.73 B
+1158,Penske Automotive,United States,$25.55 B,$1.19 B,$14.16 B,$7.44 B
+1162,Darden Restaurants,United States,$9.31 B,$1.04 B,$10.21 B,$16.72 B
+1162,Hess,United States,$7.72 B,$559 M,$20.52 B,$32.97 B
+1168,Welltower,United States,$4.73 B,$336.1 M,$34.91 B,$43.1 B
+1172,Caesars Entertainment,United States,$9.48 B,$-1.02 B,$38.03 B,$14.26 B
+1174,Textron,United States,$12.38 B,$746 M,$15.83 B,$14.69 B
+1179,Fastenal,United States,$6.3 B,$984 M,$4.47 B,$32.78 B
+1184,Zoom Video Communications,United States,$4.1 B,$1.38 B,$7.55 B,$29.96 B
+1186,Evergy,United States,$5.59 B,$879.7 M,$28.52 B,$16.36 B
+1186,NVR,United States,$8.74 B,$1.24 B,$5.83 B,$14.39 B
+1197,Targa Resources,United States,$17.44 B,$71.2 M,$16.41 B,$17.39 B
+1200,Expedia Group,United States,$8.6 B,$12 M,$21.55 B,$28.29 B
+1205,Eastman Chemical,United States,$10.48 B,$857 M,$15.52 B,$13.72 B
+1205,Leidos,United States,$13.74 B,$753 M,$13.26 B,$14.76 B
+1207,Vistra Energy,United States,$13.28 B,$-1.27 B,$30.45 B,$11.18 B
+1211,TransDigm Group,United States,$4.88 B,$747 M,$19.24 B,$34.61 B
+1219,Carnival Corporation,United States,$3.51 B,$-9.42 B,$53.28 B,$21.45 B
+1219,ON Semiconductor Corp.,United States,$6.74 B,$1.01 B,$9.63 B,$22.49 B
+1221,VICI Properties,United States,$1.51 B,$1.01 B,$17.6 B,$22.21 B
+1223,Chipotle Mexican Grill,United States,$7.55 B,$653 M,$7.64 B,$41.49 B
+1226,Old Republic International,United States,$9.34 B,$1.53 B,$20.38 B,$7.33 B
+1229,Zimmer Biomet,United States,$7.84 B,$401.6 M,$23.46 B,$26.31 B
+1230,Alcoa,United States,$12.82 B,$723 M,$15.99 B,$12.42 B
+1234,Goodyear,United States,$17.48 B,$764 M,$21.4 B,$3.73 B
+1238,Illumina,United States,$4.53 B,$761 M,$15.22 B,$50.69 B
+1239,Synopsys,United States,$4.5 B,$908.9 M,$8.9 B,$43.63 B
+1254,Hologic,United States,$5.49 B,$1.72 B,$9.29 B,$18.58 B
+1255,Western Alliance Bancorp.,United States,$2.27 B,$946.8 M,$60.58 B,$8.35 B
+1260,Old Dominion Freight Line,United States,$5.26 B,$1.03 B,$4.82 B,$30.9 B
+1267,Kohl's,United States,$19.43 B,$938 M,$15.05 B,$7.38 B
+1273,Copart,United States,$3.16 B,$1.09 B,$5.14 B,$27.59 B
+1273,Dick's Sporting Goods,United States,$12.29 B,$1.52 B,$9.04 B,$7.96 B
+1277,Universal Health Services,United States,$12.64 B,$989.5 M,$13.09 B,$9.9 B
+1283,Popular,United States,$2.76 B,$934.9 M,$75.1 B,$6.08 B
+1288,Frontier Communications Parent,United States,$6.41 B,$4.96 B,$17.14 B,$6.71 B
+1296,Ametek,United States,$5.55 B,$990.1 M,$11.9 B,$29.4 B
+1304,Jacobs Engineering,United States,$14.07 B,$281.1 M,$14.8 B,$18.38 B
+1305,PPL,United States,$5.78 B,$129 M,$33.22 B,$21.99 B
+1311,Marvell Technology,United States,$4.46 B,$-421 M,$22.11 B,$49.55 B
+1312,Skyworks Solutions,United States,$5.11 B,$1.39 B,$8.62 B,$18.61 B
+1314,Arista Networks,United States,$2.95 B,$840.9 M,$5.73 B,$36.22 B
+1315,Electronic Arts,United States,$6.56 B,$640 M,$13.93 B,$36.02 B
+1318,Brighthouse Financial,United States,$7.14 B,$-108 M,$261.3 B,$4.1 B
+1321,CF Industries Holdings,United States,$6.54 B,$917 M,$12.57 B,$20.1 B
+1325,APA,United States,$7.99 B,$973 M,$13.3 B,$14.12 B
+1328,Campbell Soup,United States,$8.3 B,$921 M,$11.99 B,$14.16 B
+1334,Marathon Oil,United States,$5.6 B,$946 M,$16.99 B,$17.96 B
+1340,StoneX Group,United States,$47.63 B,$134.2 M,$19.23 B,$1.39 B
+1342,Keysight Technologies,United States,$5.01 B,$951 M,$7.73 B,$26.44 B
+1349,McCormick,United States,$6.36 B,$748.4 M,$12.94 B,$27.42 B
+1350,IDEXX Laboratories,United States,$3.21 B,$744.8 M,$2.44 B,$39.89 B
+1363,Brown-Forman,United States,$3.74 B,$807 M,$6.23 B,$32.09 B
+1364,Assurant,United States,$10.19 B,$449.9 M,$27.73 B,$10.77 B
+1373,NetApp,United States,$6.19 B,$1.01 B,$9.5 B,$16.91 B
+1376,Royal Caribbean Group,United States,$1.53 B,$-5.26 B,$32.26 B,$20.82 B
+1380,Extra Space Storage,United States,$1.61 B,$856.9 M,$10.47 B,$28.54 B
+1382,Cadence Design,United States,$2.99 B,$696 M,$4.39 B,$41.22 B
+1385,AGCO,United States,$11.14 B,$897 M,$9.18 B,$10.05 B
+1390,MSCI,United States,$2.04 B,$726 M,$5.51 B,$37.06 B
+1398,First American Financial,United States,$9.22 B,$1.24 B,$16.45 B,$6.54 B
+1401,Packaging Corp of America,United States,$7.73 B,$834.7 M,$8.02 B,$15.1 B
+1405,Berry Global Group,United States,$14.29 B,$724 M,$17.34 B,$7.78 B
+1407,PerkinElmer,United States,$5.07 B,$932.3 M,$15 B,$19.25 B
+1408,Navient,United States,$3.49 B,$717 M,$80.61 B,$2.5 B
+1412,Quanta Services,United States,$12.98 B,$486 M,$12.86 B,$17.2 B
+1417,Liberty Broadband,United States,$988 M,$732 M,$17.19 B,$20.82 B
+1419,AirBnB,United States,$5.99 B,$-352 M,$13.71 B,$98.91 B
+1422,AGNC Investment,United States,$1.97 B,$749 M,$68.15 B,$6.06 B
+1424,Westinghouse Air Brake Technologies,United States,$7.82 B,$555.6 M,$18.45 B,$16.52 B
+1432,Henry Schein,United States,$12.4 B,$623.9 M,$8.48 B,$12.05 B
+1435,Mettler-Toledo International,United States,$3.72 B,$769 M,$3.33 B,$29.21 B
+1437,Thor Industries,United States,$14.88 B,$922.4 M,$7.67 B,$4.25 B
+1439,Rivian,United States,$55 M,$-4.69 B,$22.29 B,$30.27 B
+1439,Williams-Sonoma,United States,$8.25 B,$1.13 B,$4.63 B,$9.68 B
+1443,Kimco Realty,United States,$1.36 B,$838.1 M,$18.46 B,$15.72 B
+1443,Olin,United States,$8.91 B,$1.3 B,$8.52 B,$8.46 B
+1446,Fortinet,United States,$3.34 B,$606.8 M,$5.92 B,$48.93 B
+1448,Church & Dwight,United States,$5.19 B,$827.5 M,$8 B,$24.95 B
+1449,ServiceNow,United States,$5.89 B,$230 M,$10.8 B,$94.28 B
+1450,Mohawk Industries,United States,$11.2 B,$1.03 B,$14.22 B,$7.88 B
+1450,Align Technology,United States,$3.95 B,$772 M,$5.94 B,$28.41 B
+1452,SS&C Technologies,United States,$5.05 B,$800 M,$17.33 B,$17.52 B
+1454,Advance Auto Parts,United States,$11 B,$616.1 M,$12.19 B,$13.34 B
+1459,Duke Realty,United States,$1.11 B,$851.5 M,$10.45 B,$22.92 B
+1462,UGI,United States,$8.71 B,$1.07 B,$16.8 B,$7.68 B
+1464,Teradyne,United States,$3.7 B,$1.02 B,$3.81 B,$17.65 B
+1465,Avery Dennison,United States,$8.41 B,$740.1 M,$7.97 B,$13.79 B
+1468,First Citizens Bank (NC),United States,$1.96 B,$547.5 M,$58.31 B,$10.05 B
+1474,Brookfield Renewable,United States,$3.37 B,$899 M,$41.99 B,$6.4 B
+1475,Ventas,United States,$3.83 B,$49 M,$24.72 B,$23.37 B
+1475,Verisk Analytics,United States,$3 B,$666.2 M,$7.81 B,$33.43 B
+1477,Cooper Companies,United States,$3.03 B,$938.9 M,$11.66 B,$19.27 B
+1479,SLM,United States,$2.34 B,$1.16 B,$29.22 B,$4.67 B
+1480,Gartner,United States,$4.73 B,$793.6 M,$7.42 B,$24.14 B
+1481,Atmos Energy,United States,$3.51 B,$696.6 M,$20.55 B,$16.08 B
+1485,Synovus,United States,$2.11 B,$744.4 M,$56.42 B,$6.45 B
+1489,Equifax,United States,$5.07 B,$764.4 M,$11.39 B,$25.02 B
+1492,Globe Life,United States,$5.16 B,$730.8 M,$29.77 B,$10.26 B
+1498,Hilton,United States,$5.81 B,$410 M,$15.44 B,$42.82 B
+1500,BorgWarner,United States,$14.84 B,$537 M,$16.57 B,$9.09 B
+1502,Adient,United States,$13.31 B,$904 M,$10.72 B,$3.21 B
+1504,Zebra Technologies,United States,$5.62 B,$837 M,$6.21 B,$20.06 B
+1506,VeriSign,United States,$1.33 B,$784.8 M,$1.98 B,$22.59 B
+1509,JM Smucker,United States,$7.88 B,$574.8 M,$15.97 B,$15.43 B
+1511,Incyte,United States,$2.99 B,$948.6 M,$4.97 B,$16.95 B
+1513,Performance Food Group,United States,$39.73 B,$36.9 M,$12.22 B,$8.13 B
+1515,Martin Marietta Materials,United States,$5.41 B,$707.9 M,$14.74 B,$22.14 B
+1516,Boston Properties,United States,$2.89 B,$505.1 M,$22.36 B,$21.77 B
+1521,Amerco,United States,$5.6 B,$1.11 B,$16.59 B,$10.73 B
+1529,Las Vegas Sands,United States,$4.23 B,$-961 M,$20.06 B,$27.81 B
+1530,US Foods,United States,$29.49 B,$164 M,$12.52 B,$8.52 B
+1531,FleetCor Technologies,United States,$2.83 B,$839.5 M,$13.4 B,$19.51 B
+1535,Crown Holdings,United States,$11.93 B,$-551 M,$13.86 B,$14.75 B
+1537,Alliant Energy,United States,$3.67 B,$674 M,$19.25 B,$15.83 B
+1542,Ingersoll Rand,United States,$5.39 B,$757.4 M,$15.15 B,$18.74 B
+1556,Globalfoundries,United States,$6.58 B,$-254 M,$15.03 B,$27.13 B
+1561,EQT,United States,$6.84 B,$-1.16 B,$21.61 B,$14.96 B
+1562,West Pharmaceutical Services,United States,$2.83 B,$661.8 M,$3.31 B,$25.98 B
+1567,New Residential Investment,United States,$3.01 B,$772.2 M,$39.96 B,$4.84 B
+1571,Fortive,United States,$5.25 B,$606.9 M,$16.47 B,$20.75 B
+1571,Rocket Companies,United States,$10 B,$308.4 M,$32.77 B,$1.05 B
+1575,News Corp,United States,$10.05 B,$496 M,$16.52 B,$12.29 B
+1579,Royalty Pharma,United States,$2.29 B,$619.8 M,$17.52 B,$18.48 B
+1581,Avantor,United States,$7.39 B,$572.6 M,$13.9 B,$18.32 B
+1581,OneMain Holdings,United States,$4.97 B,$1.31 B,$22.08 B,$6 B
+1583,Vulcan Materials,United States,$5.55 B,$670.9 M,$13.92 B,$22.74 B
+1586,Palo Alto Networks,United States,$4.86 B,$-461.5 M,$10.4 B,$56.29 B
+1588,DXC Technology,United States,$16.64 B,$-610 M,$19.95 B,$7.2 B
+1591,Snowflake,United States,$1.22 B,$-679.9 M,$6.65 B,$54.68 B
+1592,Owens Corning,United States,$8.5 B,$995 M,$10.02 B,$8.46 B
+1598,HF Sinclair,United States,$18.41 B,$551 M,$13.17 B,$8.47 B
+1599,Invitation Homes,United States,$1.85 B,$271.1 M,$18.54 B,$26.2 B
+1604,Workday,United States,$5.15 B,$29.4 M,$10.5 B,$51.74 B
+1606,Stifel Financial,United States,$4.79 B,$824.9 M,$34.31 B,$6.88 B
+1609,Qorvo,United States,$4.55 B,$1.12 B,$7.63 B,$12.11 B
+1614,NiSource,United States,$4.9 B,$584.9 M,$25.26 B,$12.51 B
+1622,Snap,United States,$4.41 B,$-560.7 M,$8.95 B,$48.34 B
+1628,NortonLifeLock,United States,$2.75 B,$910 M,$6.87 B,$14.85 B
+1630,CrowdStrike,United States,$1.45 B,$-234.8 M,$3.62 B,$47.45 B
+1632,Interactive Brokers Group,United States,$2.74 B,$274 M,$114.42 B,$6 B
+1640,World Fuel Services,United States,$31.3 B,$73.6 M,$5.94 B,$1.72 B
+1647,BOK Financial,United States,$2.01 B,$622.4 M,$50.25 B,$6.01 B
+1650,New York Community Bancorp,United States,$1.75 B,$587.8 M,$59.64 B,$4.7 B
+1662,DexCom,United States,$2.45 B,$154.7 M,$4.86 B,$42.91 B
+1667,Autodesk,United States,$4.4 B,$497 M,$8.61 B,$40.7 B
+1667,Twitter,United States,$5.08 B,$-221.4 M,$14.06 B,$39.17 B
+1671,Cerner,United States,$5.76 B,$555.6 M,$7.43 B,$27.55 B
+1682,United Natural Foods,United States,$27.77 B,$233.6 M,$7.8 B,$2.62 B
+1688,Huntsman,United States,$8.45 B,$1.04 B,$9.39 B,$7.33 B
+1691,SBA Communications,United States,$2.31 B,$237.6 M,$9.8 B,$39.57 B
+1692,Datadog,United States,$1.03 B,$-20.7 M,$2.38 B,$39.38 B
+1692,Organon,United States,$6.47 B,$1.35 B,$10.68 B,$8.18 B
+1692,PBF Energy,United States,$27.25 B,$231 M,$12.69 B,$3.21 B
+1700,ResMed,United States,$3.44 B,$522 M,$4.74 B,$33.26 B
+1702,BJ's Wholesale Club,United States,$16.67 B,$426.7 M,$5.67 B,$9.09 B
+1702,PVH,United States,$9.15 B,$952.3 M,$12.4 B,$5.12 B
+1709,Pool,United States,$5.65 B,$726.9 M,$3.88 B,$16.68 B
+1710,Aramark,United States,$13.3 B,$33 M,$14.47 B,$9.82 B
+1716,Cullen/Frost Bankers,United States,$1.39 B,$440.4 M,$50.88 B,$8.86 B
+1717,Live Nation Entertainment,United States,$6.27 B,$-670.7 M,$14.4 B,$23.79 B
+1719,Starwood Property Trust,United States,$1.19 B,$440.9 M,$83.85 B,$7.31 B
+1725,AECOM Technology,United States,$13.29 B,$208.6 M,$11.44 B,$10.26 B
+1727,FMC,United States,$5.04 B,$734.7 M,$10.58 B,$16.7 B
+1735,Rite Aid,United States,$24.57 B,$-538.5 M,$8.53 B,$414 M
+1736,Waters,United States,$2.79 B,$692.8 M,$3.1 B,$17.94 B
+1751,Burlington Stores,United States,$9.32 B,$408.8 M,$7.09 B,$13.82 B
+1756,Chewy,United States,$8.89 B,$-73.8 M,$2.25 B,$14.56 B
+1764,Medical Properties Trust,United States,$1.54 B,$653.9 M,$20.52 B,$11.25 B
+1765,Akamai Technologies,United States,$3.46 B,$651.6 M,$8.14 B,$18.85 B
+1768,Newell Brands,United States,$10.59 B,$572 M,$14.18 B,$9.45 B
+1775,Toll Brothers,United States,$9.02 B,$889 M,$11.28 B,$5.35 B
+1777,Foot Locker,United States,$8.96 B,$893 M,$8.13 B,$2.79 B
+1780,American Equity Investment,United States,$4.05 B,$474 M,$70.99 B,$3.77 B
+1782,Avnet,United States,$21.59 B,$455 M,$9.58 B,$3.87 B
+1784,Lucid Motors,United States,$27 M,$-3.03 B,$7.88 B,$31.59 B
+1787,Manpower,United States,$20.94 B,$412 M,$9.72 B,$4.94 B
+1791,Clorox,United States,$7.08 B,$247 M,$6.19 B,$18.54 B
+1795,Service Corp Intl,United States,$4.14 B,$802.9 M,$15.69 B,$11.32 B
+1797,Fortune Brands Home & Security,United States,$7.66 B,$772.4 M,$7.94 B,$9.33 B
+1797,Lear,United States,$19.26 B,$373.9 M,$13.35 B,$7.75 B
+1801,DoorDash,United States,$4.89 B,$-468 M,$6.81 B,$31.01 B
+1803,Cloudflare,United States,$656 M,$-260.3 M,$2.37 B,$30.99 B
+1807,American National Group,United States,$4.35 B,$699.3 M,$30.99 B,$5.09 B
+1828,Booz Allen Hamilton Holding,United States,$8.11 B,$571.3 M,$5.94 B,$11.73 B
+1835,LPL Financial Holdings,United States,$7.72 B,$459.9 M,$8.25 B,$15.66 B
+1835,Mid-america Apartment Communities,United States,$1.78 B,$533.2 M,$11.29 B,$23.88 B
+1839,Wayfair,United States,$13.71 B,$-131.4 M,$4.57 B,$8.94 B
+1839,Zscaler,United States,$860 M,$-330.7 M,$2.42 B,$29.13 B
+1843,Trade Desk,United States,$1.2 B,$137.8 M,$3.58 B,$28.89 B
+1857,Veeva Systems,United States,$1.85 B,$427.4 M,$3.82 B,$28.4 B
+1860,Qurate Retail Group,United States,$14.04 B,$340 M,$16.25 B,$1.58 B
+1862,Kyndryl Holdings,United States,$18.66 B,$-2.32 B,$13.21 B,$2.65 B
+1873,Snap-on,United States,$4.67 B,$845.3 M,$6.89 B,$11.88 B
+1878,WESCO International,United States,$18.22 B,$465.4 M,$12.62 B,$6.37 B
+1883,Tenneco,United States,$18.04 B,$35 M,$11.62 B,$1.47 B
+1884,PacWest Bancorp,United States,$1.35 B,$566.7 M,$39.25 B,$4.05 B
+1889,PennyMac Financial Services,United States,$4.29 B,$1 B,$18.78 B,$2.68 B
+1895,Essex Property Trust,United States,$1.44 B,$521.7 M,$13 B,$22.95 B
+1899,Brown & Brown,United States,$3.05 B,$574 M,$9.93 B,$19.18 B
+1902,Commerce Bancshares,United States,$1.42 B,$514.3 M,$34.99 B,$8.66 B
+1905,Webster Financial,United States,$1.26 B,$406.6 M,$34.99 B,$9 B
+1910,Seagen,United States,$1.57 B,$-674.5 M,$3.72 B,$25.23 B
+1911,Commercial Metals,United States,$7.87 B,$898.9 M,$5.5 B,$5.12 B
+1912,MongoDB,United States,$874 M,$-306.9 M,$2.45 B,$25.07 B
+1915,Murphy USA,United States,$17.36 B,$396.9 M,$4.17 B,$5.92 B
+1917,Ares Management,United States,$4.31 B,$388.3 M,$21.68 B,$12.94 B
+1922,Teledyne Technologies,United States,$4.6 B,$445.3 M,$14.43 B,$21.88 B
+1925,Wintrust Financial,United States,$1.88 B,$440.4 M,$50.25 B,$5.31 B
+1927,Palantir Technologies,United States,$1.54 B,$-520.4 M,$3.25 B,$24.28 B
+1928,Mr. Cooper Group,United States,$2.9 B,$1.42 B,$14.2 B,$3.35 B
+1930,CoStar Group,United States,$1.94 B,$292.6 M,$7.26 B,$24.17 B
+1937,Ansys,United States,$1.91 B,$454.6 M,$6.32 B,$24.06 B
+1939,Gap,United States,$16.67 B,$256 M,$12.76 B,$4.33 B
+1942,Albemarle,United States,$3.33 B,$123.7 M,$10.97 B,$23.5 B
+1948,Bread Financial Holdings,United States,$3.65 B,$801 M,$22.26 B,$2.77 B
+1948,Healthpeak Properties,United States,$1.9 B,$504.8 M,$15.26 B,$18.59 B
+1948,Robert Half International,United States,$6.46 B,$598.6 M,$2.95 B,$12.45 B
+1953,XPO Logistics,United States,$16.44 B,$340 M,$8.71 B,$6.4 B
+1969,Cadence Bank,United States,$1.25 B,$195.2 M,$47.67 B,$4.89 B
+1970,Masco,United States,$8.38 B,$406 M,$5.58 B,$12.05 B
+1971,Pinnacle Bank,United States,$1.32 B,$531 M,$39.4 B,$6.26 B
+1977,Tapestry,United States,$6.51 B,$836.3 M,$7.93 B,$8.7 B
+1982,Group 1 Automotive,United States,$13.71 B,$533.6 M,$5.75 B,$2.86 B
+1984,Unity Software,United States,$1.11 B,$-532.6 M,$4.84 B,$22.41 B
+1986,Twilio,United States,$2.84 B,$-949.9 M,$13 B,$22.29 B
+1992,Match Group,United States,$2.98 B,$277.7 M,$5.06 B,$22.04 B
