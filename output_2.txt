@@ -1,0 +1,5 @@
+Cac canh (nodeid,i) co trong so lon hon la: 
+(1,110) Trong so: 0.27
+(1,95) Trong so: 0.35
+(1,67) Trong so: 0.24
+(1,31) Trong so: 0.35
