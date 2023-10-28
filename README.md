@@ -1,1 +1,1 @@
-My name is Hieu , i'm 19 and it's my first time i use github
+My name is Hieu , i'm 19 and this is my first time using github
